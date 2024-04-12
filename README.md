@@ -1,2 +1,2 @@
-# Site_display_anime
+# site-internship
 Created with CodeSandbox
